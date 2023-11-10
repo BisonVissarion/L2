@@ -1,0 +1,5 @@
+apple 3
+citrus 1
+avocado 2
+date 4
+
